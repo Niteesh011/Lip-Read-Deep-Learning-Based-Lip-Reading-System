@@ -4,6 +4,7 @@
 
 This project implements a **Lip Reading system** using **Deep Learning** techniques like CNNs and Connectionist Temporal Classification (CTC). It converts silent lip movements from videos into readable text.
 
+![Output Preview](outputsnippet.png)
 ---
 
 ## Features
